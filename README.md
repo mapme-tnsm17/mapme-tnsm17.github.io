@@ -1,1 +1,0 @@
-This repository holds the source to a simple webpage introducing the paper "MAP-Me: Managing Anchor-less Producer Mobility in Content Centric Networks" and pointing to various useful resources such as related code and technical report.
