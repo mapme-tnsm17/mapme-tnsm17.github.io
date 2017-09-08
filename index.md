@@ -1,4 +1,4 @@
-**MAP-ME: Managing Anchor-less Producer Mobility in Content-Centric Networks**<br/>
+# MAP-ME: Managing Anchor-less Producer Mobility in Content-Centric Networks
 [Jordan Augé](http://jordan.auge.free.fr), Giovanna Carofiglio, Giulio Grassi, Luca Muscariello, Giovanni Pau, and Xuan Zeng
 
 Abstract:
@@ -30,4 +30,4 @@ Abstract:
 | [![BIB](/img/bib.png) Bibtex](/files/auge2017mapme.bib)
 | [![TXT](/img/txt.png) Abstract](/files/auge2017mapme.txt)
 
-| [![CODE](/img/code.png) Source code](http://github.com/mapme-tnsm17/mapme-tnsm17)
+[![CODE](/img/code.png) Source code](http://github.com/mapme-tnsm17/mapme-tnsm17)
