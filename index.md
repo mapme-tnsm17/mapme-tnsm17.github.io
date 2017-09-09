@@ -31,3 +31,5 @@ Abstract:
 | [![TXT](/img/txt.png) Abstract](/files/auge2017mapme.txt)
 
 [![CODE](/img/code.png) Source code](http://github.com/mapme-tnsm17/mapme-tnsm17)
+
+<sub>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.</sub>
