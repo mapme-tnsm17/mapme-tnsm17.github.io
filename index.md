@@ -26,9 +26,9 @@ Abstract:
 > metrics. All the code is available as open-source.
 
   [![PDF](/img/pdf.png) Paper](#)
-| [![PDF](/img/pdf.png) Extended Technical report](http://jordan.auge.free.fr/files/auge2017mapme-tr.pdf)
-| [![BIB](/img/bib.png) Bibtex](/files/auge2017mapme.bib)
-| [![TXT](/img/txt.png) Abstract](/files/auge2017mapme.txt)
+| [![PDF](/img/pdf.png) Extended Technical report](http://jordan.auge.free.fr/files/research/auge2017mapme-tr.pdf)
+| [![BIB](/img/bib.png) Bibtex](/files/research/auge2017mapme.bib)
+| [![TXT](/img/txt.png) Abstract](/files/research/auge2017mapme.txt)
 
 [![CODE](/img/code.png) Source code](http://github.com/mapme-tnsm17/mapme-tnsm17)
 
