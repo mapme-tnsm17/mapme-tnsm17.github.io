@@ -25,7 +25,7 @@ Abstract:
 > characteristics and efficiency in terms of user performance and network cost
 > metrics. All the code is available as open-source.
 
-  [![PDF](/img/pdf.png) Paper (upon acceptance)](#)
+  ![PDF](/img/pdf.png) Paper
 | [![PDF](/img/pdf.png) Extended Technical report](http://jordan.auge.free.fr/files/research/auge2017mapme-tr.pdf)
 | [![BIB](/img/bib.png) Bibtex](http://jordan.auge.free.fr/files/research/auge2017mapme.bib)
 | [![TXT](/img/txt.png) Abstract](http://jordan.auge.free.fr/files/research/auge2017mapme.txt)
