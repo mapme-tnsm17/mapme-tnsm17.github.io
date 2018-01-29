@@ -30,6 +30,6 @@ Abstract:
 | [![BIB](/img/bib.png) Bibtex](http://jordan.auge.free.fr/files/research/auge2017mapme.bib)
 | [![TXT](/img/txt.png) Abstract](http://jordan.auge.free.fr/files/research/auge2017mapme.txt)
 
-[![CODE](/img/code.png) Source code](http://github.com/mapme-tnsm17/mapme-tnsm17)
+[![CODE](/img/code.png) Source code](http://github.com/mapme-tnsm17)
 
 <sub>This work has been published by  the IEEE. Copyright may be transferred without notice, after which this version may no longer be accessible.</sub>
